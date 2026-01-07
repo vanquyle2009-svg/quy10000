@@ -1,0 +1,25 @@
+body {
+    font-family: "Segoe UI", Times New Roman, sans-serif;
+	background-color: whitesmoke; 
+    display: flex;
+    justify-content: center;
+}
+.card-img-top img {
+    width: 100%;
+}
+.date {
+    color: gray; 
+}
+.card-footer {
+    display: flex;
+    justify-content: space-between; 
+}
+.comments {
+    font-size: 16px;
+    color: dimgray;
+}
+.badge {
+    background-color: black;
+    color: white;
+    padding: 3px 8px;
+}
